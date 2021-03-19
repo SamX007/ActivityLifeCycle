@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TwoActivities">
-        <activity android:name="com.example.twoactivitieslifecycle.SecondActivity"></activity>
         <activity android:name="com.example.twoactivitieslifecycle.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
